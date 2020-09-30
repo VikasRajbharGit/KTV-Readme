@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## KTV App
 
-You can use the [editor on GitHub](https://github.com/VikasRajbharGit/KTV-Readme/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![KTV App](https://github.com/VikasRajbharGit/KTV-Readme/blob/master/KTV-Straight.jpg?raw=true "KTV App")
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*A quick cable package selection tool that allows for 100+ combinations for in-depth customization of various channels based on TRAI guidelines designed with simple yet beautiful UI and a payment gateway for hassle-free subscription management experience*
 
-### Markdown
+### Watch Here: YouTube 
+[Click here](https://youtu.be/roiaZgNfr1U)
+### Features:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This app is teeming with application and developmental features despite it's simplicity.
 
-```markdown
-Syntax highlighted code block
+------------
 
-# Header 1
-## Header 2
-### Header 3
+#### App Features:
+- Easily configurable cable services
+- 100+ Customizations based on your preferences
+- Beautiful and intuitive UI for easy navigation
+- Simple and exhaustive payment options
+- Data service configuration
 
-- Bulleted
-- List
+#### Development Features:
+- BLoC Pattern
+- Payment Gateway
+- Reactive Design Approach
+- Higher Order custom Widgets
+- Firebase Integration
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VikasRajbharGit/KTV-Readme/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+> Please Note: This readme represents a private repository, the actual source code can not be revealed to maintain client confidentiality.
